@@ -10,6 +10,7 @@ const services = [
   "Cybersecurity Services",
   "Data Privacy & Governance",
   "ISO & Risk Consulting",
+
   "Audit & Compliance Readiness",
   "Collaboration Services",
   "Training & Certifications",
